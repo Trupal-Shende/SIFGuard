@@ -1,0 +1,74 @@
+[
+    {
+        "report_id": "OIL-DUL-2026-001",
+        "timestamp": "2026-01-15 14:30:00",
+        "installation": "Duliajan",
+        "latitude": 27.3587,
+        "longitude": 95.3212,
+        "activity": "Rig floor operations",
+        "report_text": "A worker was seen working at height on the scaffold without wearing a harness. Supervisor was absent and no permit was issued. Bina permit kaam ho raha hai."
+    },
+    {
+        "report_id": "OIL-DUL-2026-002",
+        "timestamp": "2026-01-16 09:15:00",
+        "installation": "Duliajan",
+        "latitude": 27.3590,
+        "longitude": 95.3210,
+        "activity": "Electrical maintenance",
+        "report_text": "Live wire was exposed near the panel. Energy isolation loto procedure not followed. Potential electrocution hazard."
+    },
+    {
+        "report_id": "OIL-DUL-2026-003",
+        "timestamp": "2026-01-17 11:00:00",
+        "installation": "Duliajan",
+        "latitude": 27.3585,
+        "longitude": 95.3215,
+        "activity": "Housekeeping",
+        "report_text": "Some oil spilled on the walkway. Cleaned it immediately. No one slipped."
+    },
+    {
+        "report_id": "OIL-MOR-2026-001",
+        "timestamp": "2026-01-18 10:20:00",
+        "installation": "Moran",
+        "latitude": 27.1833,
+        "longitude": 94.9333,
+        "activity": "Lifting operations",
+        "report_text": "Heavy load was being lifted using a crane. A person walked into the swing radius line of fire. Crane operator stopped immediately."
+    },
+    {
+        "report_id": "OIL-MOR-2026-002",
+        "timestamp": "2026-01-19 14:45:00",
+        "installation": "Moran",
+        "latitude": 27.1835,
+        "longitude": 94.9330,
+        "activity": "Vehicle transit",
+        "report_text": "Driver gaadi driving fast over speed limit inside the plant. No seatbelt worn."
+    },
+    {
+        "report_id": "OIL-NAH-2026-001",
+        "timestamp": "2026-01-20 16:30:00",
+        "installation": "Naharkatiya",
+        "latitude": 27.2811,
+        "longitude": 95.2588,
+        "activity": "Confined space entry",
+        "report_text": "Vessel entry done by untrained aadmi. No gas test performed. Potential asphyxiation."
+    },
+    {
+        "report_id": "OIL-JOR-2026-001",
+        "timestamp": "2026-01-21 08:00:00",
+        "installation": "Jorhat",
+        "latitude": 26.7509,
+        "longitude": 94.2037,
+        "activity": "Office area",
+        "report_text": "Printer paper jammed and small papercut to finger. First aid applied."
+    },
+    {
+        "report_id": "OIL-DIG-2026-001",
+        "timestamp": "2026-01-22 13:10:00",
+        "installation": "Digboi",
+        "latitude": 27.3822,
+        "longitude": 95.6311,
+        "activity": "Welding operations",
+        "report_text": "Hot work welding was ongoing near flammable materials. Spark almost ignited the cloth."
+    }
+]
